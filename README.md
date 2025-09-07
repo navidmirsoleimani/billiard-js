@@ -3,7 +3,7 @@
 A simple **billiards simulation game** built with **HTML, CSS, and JavaScript (Canvas API)**.
 This project simulates the **first shot in billiards**, allowing the player to control the stick direction with the mouse and shoot the cue ball with variable power.
 
-🔗 **Live Demo**: [AI Agency](https://navidmirsoleimani.github.io/billiard-js)
+🔗 **Live Demo**: [Billiard](https://navidmirsoleimani.github.io/billiard-js)
 
 ---
 
